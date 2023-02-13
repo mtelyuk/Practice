@@ -34,4 +34,13 @@ public class NewClass {
            this.n1 = n1;
         }
     }
+
+    private void method1(int n1) {
+
+
+    }
+
+    private void method1(double n1) {
+
+    }
 }
